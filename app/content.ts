@@ -40,7 +40,7 @@ export const sections: Section[] = [
     id:"basketball",number:"02",kicker:{fa:"بسکتبال",en:"Basketball"},
     title:{fa:"دفاع، امضای بازی من",en:"Defense is the signature of my game"},
     summary:{fa:"پروفایل ورزشی آرمان با تمرکز ویژه بر دفاع، تمرین، پیشرفت و هدف‌های بسکتبالی.",en:"Arman’s athlete profile focused on defense, practice, progress and basketball goals."},
-    image:"/assets/basketball-new.png",accent:"orange",
+   image: "/my-website/assets/basketball.png",accent:"orange",
     lead:{fa:"بسکتبال یکی از بخش‌های اصلی هویت من است. در بازی، دفاع برایم جایگاه ویژه‌ای دارد و مسیر پیشرفت را با تمرین، تمرکز، استمرار و بررسی عملکرد دنبال می‌کنم.",en:"Basketball is a central part of my identity. Defense has a special place in my game, and I pursue progress through practice, focus, consistency and performance review."},
     facts:{fa:["هویت بازی: دفاع‌محور","اصل پیشرفت: تمرین و استمرار","تمرکز ذهنی: واکنش، تمرکز و تصمیم‌گیری","هدف: رشد هم‌زمان توان دفاعی و حمله"],en:["Play identity: defense-first","Progress principle: practice and consistency","Mental focus: reaction, focus and decisions","Goal: grow both defense and offense"]},
     groups:[
@@ -54,7 +54,7 @@ export const sections: Section[] = [
     id:"programming",number:"03",kicker:{fa:"برنامه‌نویسی",en:"Programming"},
     title:{fa:"از کد تا یک ماشین واقعی",en:"From code to a real machine"},
     summary:{fa:"کدنویسی، بردهای هوشمند، ارتباط بی‌سیم و عیب‌یابی؛ جایی که کد به حرکت تبدیل می‌شود.",en:"Code, smart boards, wireless links and debugging — where software becomes motion."},
-    image:"/assets/programming-new.png",accent:"green",
+    image: "/my-website/assets/programming.png",accent:"green",
     lead:{fa:"برنامه‌نویسی برای من فقط نوشتن چند خط کد نیست؛ راهی است برای خواندن حسگر، کنترل دوربین و موتور، برقراری ارتباط بی‌سیم و ساخت رباتی که در دنیای واقعی کار کند.",en:"Programming is more than writing lines of code to me; it is how sensors are read, cameras and motors are controlled, wireless links are built and a real robot comes alive."},
     facts:{fa:["Arduino Nano و Mega","ESP32-CAM و پردازش تصویر","NRF24L01 و کنترل بی‌سیم","کتابخانه‌های Servo، Wire و MPU6050"],en:["Arduino Nano and Mega","ESP32-CAM and machine vision","NRF24L01 wireless control","Servo, Wire and MPU6050 libraries"]},
     groups:[
